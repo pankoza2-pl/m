@@ -20,8 +20,6 @@ yttrium : sfgkqeawl
 
 Streptococcus : sfgkqeawl
 
-Pericarditis : sfgkqeawl
-
 NoEscape : 
 
 Phsyletric : Clqxc
